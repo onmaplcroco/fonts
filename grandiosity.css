@@ -1,0 +1,72 @@
+/* Grandiosity — variantes vues dans ton repo */
+@font-face {
+  font-family: "Grandiosity";
+  src: url("https://cdn.jsdelivr.net/gh/omnaplcroco/fonts/Grandiosity-Regular-8f846e0c8e5b.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Grandiosity";
+  src: url("https://cdn.jsdelivr.net/gh/omnaplcroco/fonts/Grandiosity-Medium-8f846e0c4c11.otf") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Grandiosity";
+  src: url("https://cdn.jsdelivr.net/gh/omnaplcroco/fonts/Grandiosity-MediumItalic-8f846e0cb70b.otf") format("opentype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Grandiosity";
+  src: url("https://cdn.jsdelivr.net/gh/omnaplcroco/fonts/Grandiosity-Semibold-8f846e0c8caf.otf") format("opentype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Grandiosity";
+  src: url("https://cdn.jsdelivr.net/gh/omnaplcroco/fonts/Grandiosity-SemiboldItalic-8f846e0cc05f.otf") format("opentype");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Grandiosity";
+  src: url("https://cdn.jsdelivr.net/gh/omnaplcroco/fonts/Grandiosity-Bold-8f846e0c577a.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Grandiosity";
+  src: url("https://cdn.jsdelivr.net/gh/omnaplcroco/fonts/Grandiosity-BoldItalic-8f846e0c4cdf.otf") format("opentype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Grandiosity";
+  src: url("https://cdn.jsdelivr.net/gh/omnaplcroco/fonts/Grandiosity-Extrabold-8f846e0ce8d9.otf") format("opentype");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Grandiosity";
+  src: url("https://cdn.jsdelivr.net/gh/omnaplcroco/fonts/Grandiosity-ExtraboldItalic-8f846e0c1473.otf") format("opentype");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
