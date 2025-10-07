@@ -1,0 +1,29 @@
+/* Basis Grotesque — variantes + helper de letter-spacing (0.01em) */
+@font-face {
+  font-family: "Basis Grotesque";
+  src: url("https://cdn.jsdelivr.net/gh/omnaplcroco/fonts/basis-grotesque-regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Basis Grotesque";
+  src: url("https://cdn.jsdelivr.net/gh/omnaplcroco/fonts/basis-grotesque-bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Helper pour appliquer rapidement la famille + tracking par défaut */
+.font-basis-grotesque {
+  font-family: "Basis Grotesque", "Helvetica Neue", Arial, sans-serif;
+  letter-spacing: 0.01em;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-kerning: normal;
+}
+
+/* Tentative (optionnelle) d'application auto si l'éditeur met font-family en inline */
+[style*="font-family: 'Basis Grotesque'"], [style*="font-family:'Basis Grotesque'"], [style*='font-family:"Basis Grotesque"'] {
+  letter-spacing: 0.01em !important;
+}
